@@ -11,6 +11,7 @@ module.exports = {
     compress: true,
     port: 8080
   },
+  mode:"development",
   devtool : "source-maps",
   module: {
     rules: [
